@@ -1,5 +1,5 @@
-Hello everyone 👋!
-* I'm Diana Llerena, a frontend developer graduated 🙆‍♀️ 🎓 from Laboratoria.
+## Hello everyone 👋!
+#### I'm Diana Llerena, a frontend developer graduated 🙆‍♀️ 🎓 from Laboratoria.
 
 like an object
 * 👉 const camotito0 = {
