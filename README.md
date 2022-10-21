@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 
 ```jsx
 const camotito0 = { 
-			code : [ 'JavaScript', 'HTML', 'CSS' ], 
-			interests : [ 'music 🎵', 'videogames 👽', 'cats 😻' ]
+	code : [ 'JavaScript', 'HTML', 'CSS' ], 
+	interests : [ 'music 🎵', 'videogames 👽', 'cats 😻' ]
 }
 ```
-![descarga](https://user-images.githubusercontent.com/105656069/188339584-f294256c-4d25-4479-ac0c-88e1507a245a.jpg)
 
 learn💦 && share 👭 && code 💻
 
