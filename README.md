@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### **Hello everyone 👋!**
 
-### **I'm Diana Llerena, a frontend developer graduated 🙆‍♀️ 🎓 from Laboratoria.**
-
+### **Soy Diana, FrontEnd Developer egresada de laboratoria🙆‍♀️ 🎓.**
 ### 👉 like an object
 
 ```jsx
@@ -26,8 +25,8 @@ const camotito0 = {
 }
 ```
 
-learn💦 && share 👭 && code 💻
+aprende💦 && comparte 👭 && codea 💻
 
-I love connecting with different people, if you are interested let's work together 💁!
+Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 💁!
 
-> Success is the ability to go from failure to failure without losing enthusiasm. 🙌
+> El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo. 🙌
