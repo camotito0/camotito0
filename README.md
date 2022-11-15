@@ -6,7 +6,7 @@
 
 - Actualmente estoy trabajando con React.
 - Estoy profundizando conocimientos en React y Angular.
-- Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 👉 [camotito0.dev@gmail.com](mailto:camotito0.dev@gmail.com)
+- Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 👉 [camotito0.dev@gmail.com](mailto:cecilianallerena@gmail.com)
 
 > El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo.
 > 
