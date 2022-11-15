@@ -13,20 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **Hello everyone 👋!**
+### **Hello everyone 👋**
 
-### **Soy Diana, FrontEnd Developer egresada de laboratoria🙆‍♀️ 🎓.**
-### 👉 like an object
+## **Soy Diana, FrontEnd Developer egresada de laboratoria🙆‍♀️ 🎓.**
+## about me.
 
-```jsx
-const camotito0 = { 
-	code : [ 'JavaScript', 'HTML', 'CSS' ], 
-	interests : [ 'music 🎵', 'videogames 👽', 'cats 😻' ]
-}
-```
+Actualmente estoy trabajando con React.
+Estoy profundizando conocimientos en React y Angular.
+Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 👉 camotito0.dev@gmail.com
 
-aprende💦 && comparte 👭 && codea 💻
-
-Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 💁!
-
-> El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo. 🙌
+> El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo.
