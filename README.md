@@ -1,25 +1,14 @@
-<!--
-**camotito0/camotito0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hello everyone 👋**
 
-Here are some ideas to get you started:
+## **Soy Diana, FrontEnd Developer egresada de laboratoria 🎓.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### **Hello everyone 👋**
-
-## **Soy Diana, FrontEnd Developer egresada de laboratoria🙆‍♀️ 🎓.**
 ## about me.
 
-Actualmente estoy trabajando con React.
-Estoy profundizando conocimientos en React y Angular.
-Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 👉 camotito0.dev@gmail.com
+- Actualmente estoy trabajando con React.
+- Estoy profundizando conocimientos en React y Angular.
+- Me encanta conectar con diferentes personas, si estás interesad@ trabajemos juntos 👉 [camotito0.dev@gmail.com](mailto:camotito0.dev@gmail.com)
 
 > El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo.
+> 
+
+## tech stack.
