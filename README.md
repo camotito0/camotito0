@@ -12,4 +12,4 @@
 > 
 
 ## tech stack.
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfc2c3a8-9f5b-4747-916d-a7c34f6f4e77/Untitled.png)
+![image](https://user-images.githubusercontent.com/105656069/202248666-03c07313-e1c6-4a48-830e-e5d0fedcd9a9.png)
