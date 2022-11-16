@@ -13,10 +13,7 @@
 
 ## tech stack.
 <div align="center">
-  <img  src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/105656069/202248765-cdc0a1f9-1093-412b-a4ae-28813ffc1f0a.png)"/>
-  <img  src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/105656069/202248765-cdc0a1f9-1093-412b-a4ae-28813ffc1f0a.png)"/>
-  <img  src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/105656069/202248765-cdc0a1f9-1093-412b-a4ae-28813ffc1f0a.png)"/>
-  <img  src="[https://i.stack.imgur.com/RJj4x.png](https://user-images.githubusercontent.com/105656069/202248765-cdc0a1f9-1093-412b-a4ae-28813ffc1f0a.png)"/>
+ 
   
   ![image](https://user-images.githubusercontent.com/105656069/202248765-cdc0a1f9-1093-412b-a4ae-28813ffc1f0a.png)
   ![image](https://user-images.githubusercontent.com/105656069/202248803-17f22b41-2e17-4716-a326-561e0d25e08b.png)
